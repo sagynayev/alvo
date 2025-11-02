@@ -53,6 +53,7 @@ main.py - initialization and launch
 
 
 ## Check
+Telegram API = @alvobt_bot
 In Telegram, send the bot:
 * `/start` - short help message
 * `/expired` - shows overdue leads (if none, says so)
